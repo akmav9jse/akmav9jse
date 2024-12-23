@@ -19,3 +19,10 @@
     <img src="https://skillicons.dev/icons?i=ableton,py,docker,c,ruby,perl" />
   </a>
 </p>
+
+## My socials 📱
+- [Twitter](https://twitter.com/Akmav9jse)
+- [Instagram](https://www.instagram.com/Akmav9jse/)
+- [RateYourMusic (I like to rate music here so don't judge me :c)](https://rateyourmusic.com/~Akmav9jse)
+- [Last.fm](https://www.last.fm/user/akmav9jse)
+- Discord: @akmav9jse
