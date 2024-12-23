@@ -21,7 +21,7 @@
   </a>
 </p>
 
-## My socials 📱
+<h1 align="center">My Socials! 📱</h1>
 - [Twitter](https://twitter.com/Akmav9jse)
 - [Instagram](https://www.instagram.com/Akmav9jse/)
 - [RateYourMusic (I like to rate music so don't judge me :c)](https://rateyourmusic.com/~Akmav9jse)
