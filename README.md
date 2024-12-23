@@ -12,4 +12,10 @@
 - 📝 I worked in cybersecurity in certain parts of Chile, such as municipalities and a medical center 
 - ❤️ Other hobbies I have are making music, graphic design, photography and a part of psychology. ^^
 - 📈 Currently working more on myself, mentally a physically 
+
 <h1 align="center">Languages/Tools i know:)</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ableton,py,docker,c,ruby,perl" />
+  </a>
+</p>
