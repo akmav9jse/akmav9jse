@@ -13,4 +13,3 @@
 - ❤️ Other hobbies I have are making music, graphic design, photography and a part of psychology. ^^
 - 📈 Currently working more on myself, mentally a physically 
 <h1 align="center">Languages/Tools i know:)</h1>
-[![My Skills](https://skillicons.dev/icons?i=c,html,ruby,py,docker,ableton)](https://skillicons.dev)
