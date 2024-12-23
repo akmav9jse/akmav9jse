@@ -14,3 +14,5 @@
 - 📈 Currently working more on myself, mentally a physically 
 <h1 align="center">Languages i know:)</h1>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/perl/perl-original.svg" title="Perl" width="40" height="40"/>&nbsp;
