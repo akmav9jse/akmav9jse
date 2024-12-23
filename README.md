@@ -4,7 +4,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Age-21-23ba71"/>  
   <img src="https://img.shields.io/badge/Live%20In-Chile-eb152d"/>  
-  <img src="https://img.shields.io/badge/they-them-purple"/>  
-  <img src="https://raw.githubusercontent.com/joypixels/pride-emoji-flags/master/svg/nonbinary-flag.svg" height="20"/>  
-  <img src="https://raw.githubusercontent.com/joypixels/pride-emoji-flags/refs/heads/master/svg/pride-flag.svg" height="20"/>  
+  <img src="https://img.shields.io/badge/they-them-pink"/>  
+  <img src="https://raw.githubusercontent.com/joypixels/pride-emoji-flags/master/svg/nonbinary-flag.svg" height="25"/>  
+  <img src="https://raw.githubusercontent.com/joypixels/pride-emoji-flags/refs/heads/master/svg/pride-flag.svg" height="25"/>  
 </div>
