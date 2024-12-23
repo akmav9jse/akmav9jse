@@ -12,7 +12,7 @@
 - 📝 I worked in cybersecurity in certain parts of Chile, such as municipalities and a medical center 
 - ❤️ Other hobbies I have are making music, graphic design, photography and a part of psychology. ^^
 - 😺 I work to be a good person, and I work to have a good mentality :3
-- 🤍 Nothing to see but here's my love who has a lot of interesting stuff in his github, you can check it out [David](https://github.com/d4vid-vl) 💕
+- 🤍 Nothing to see but here's my love who has a lot of interesting stuff in his github, you can check it out <b> [David](https://github.com/d4vid-vl) 💕</b>
 
 <h1 align="center">Languages/Tools i know:)</h1>
 <p align="center">
