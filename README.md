@@ -12,7 +12,5 @@
 - 📝 I worked in cybersecurity in certain parts of Chile, such as municipalities and a medical center 
 - ❤️ Other hobbies I have are making music, graphic design, photography and a part of psychology. ^^
 - 📈 Currently working more on myself, mentally a physically 
-<h1 align="center">Languages i know:)</h1>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" title="Perl" alt="Perl" width="40" height="40"/>&nbsp;
+<h1 align="center">Languages/Tools i know:)</h1>
+[![My Skills](https://skillicons.dev/icons?i=c,html,ruby,py,docker,ableton)](https://skillicons.dev)
