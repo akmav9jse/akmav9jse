@@ -17,7 +17,7 @@
 <h1 align="center">Languages/Tools i know:)</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,py,docker,c,ruby,perl,bsd,html,vscode,atom,ngnix,ps,pr,ai&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ableton,py,docker,c,ruby,perl,bsd,html,vscode,atom,nginx,ps,pr,ai&theme=light" />
   </a>
 </p>
 
