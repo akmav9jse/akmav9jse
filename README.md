@@ -15,10 +15,27 @@
 - 🤍 Nothing to see but here's my love who has a lot of interesting stuff in his github, you can check it out: <b> [David](https://github.com/d4vid-vl) 💕</b>
 - 🌧️ You can also see the web page of the person above [pauzz.xyz](https://pauzz.xyz) 🤍
 
-<h1 align="center">Languages/Tools i know:)</h1>
+<h1 align="center">Miscellaneous</h1>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,py,docker,c,ruby,perl,bsd,html,vscode,atom,nginx,ps,pr,ai,arch&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ableton,ps,ai,pr,ae,discord,twitter" />
+  </a>
+</p>
+
+<h1 align="center">OS</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=arch,bsd,linux,windows,apple,nix,debian" />
+  </a>
+</p>
+
+<h1 align="center">Languages/Frameworks</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=perl,ruby,c,python,react,vite,ts,haskell" />
+  </a>
+</p>
+
+<h1 align="center">Productivity</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=emacs,vim,nginx,aws,ansible,docker,git" />
   </a>
 </p>
 
