@@ -13,7 +13,6 @@
 - ❤️ Other hobbies I have are making music, graphic design, photography and a part of psychology. ^^
 - 😺 I work to be a good person, and I work to have a good mentality :3
 - 🤍 Nothing to see but here's my love who has a lot of interesting stuff in his github, you can check it out: <b> [David](https://github.com/d4vid-vl) 💕</b>
-- 🌧️ You can also see the web page of the person above [pauzz.xyz](https://pauzz.xyz) 🤍
 
 <h1 align="center">Miscellaneous</h1>
 <p align="center">
