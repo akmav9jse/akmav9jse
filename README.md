@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Aarón :3</h1>
-<h3 align="center">I work in Cybersecurity as a freelancer, but I can do programming among many other things ^^</h3>
+<h1 align="center">Hi! </h1>
+<h3 align="center">I work in Cybersecurity as a freelancer, but I can do programming among many other things</h3>
 <p align="left">
 <div align="center">
   <img src="https://img.shields.io/badge/Age-22-99caff"/>  
@@ -9,9 +9,8 @@
   <img src="https://raw.githubusercontent.com/joypixels/pride-emoji-flags/refs/heads/master/svg/pride-flag.svg" height="25"/>  
 </div>
 
-- 📝 I worked in cybersecurity in certain parts of Chile, such as municipalities and a medical center 
-- ❤️ Other hobbies I have are making music, graphic design, photography and a part of psychology. ^^
-- 😺 I work to be a good person, and I work to have a good mentality :3
+- 📝 I worked in cybersecurity in certain parts of Chile 
+- ❤️ Other hobbies I have are making music, graphic design, photography and a part of psychology
 - 🤍 Nothing to see but here's my love who has a lot of interesting stuff in his github, you can check it out: <b> [David](https://github.com/d4vid-vl) 💕</b>
 
 <h1 align="center">Miscellaneous</h1>
