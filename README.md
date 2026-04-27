@@ -26,7 +26,7 @@
 
 <h1 align="center">Languages/Frameworks</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=perl,ruby,c,python,react,vite,ts,haskell,nix" />
+    <img src="https://skillicons.dev/icons?i=ruby,c,python,react,ts,haskell,nix" />
   </a>
 </p>
 
