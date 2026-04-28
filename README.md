@@ -8,13 +8,13 @@
   <img src="https://raw.githubusercontent.com/joypixels/pride-emoji-flags/refs/heads/master/svg/transgender-flag.svg" height="25"/>  
 </div>
 
-- 📝 I worked in cybersecurity in certain parts of Chile 
-- ❤️ Other hobbies I have are making music, graphic design, photography and a part of psychology
+- 📝 I worked on cybersecurity
+- ❤️ Other hobbies I have are making music
 - 🤍 Nothing to see but here's my love who has a lot of interesting stuff in his github, you can check it out: <b> [David](https://github.com/d4vid-vl) 💕</b>
 
 <h1 align="center">Miscellaneous</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ableton,ps,ai,pr,ae,discord,twitter" />
+    <img src="https://skillicons.dev/icons?i=ableton,ps,ai,pr,ae," />
   </a>
 </p>
 
