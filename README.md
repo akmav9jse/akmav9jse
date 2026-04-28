@@ -10,7 +10,7 @@
 
 - 📝 I worked on cybersecurity
 - ❤️ Other hobbies I have are making music
-- 🤍 Nothing to see but here's my love who has a lot of interesting stuff in his github, you can check it out: <b> [David](https://github.com/d4vid-vl) 💕</b>
+- 🤍 [David](https://github.com/d4vid-vl) 💕</b>
 
 <h1 align="center">Miscellaneous</h1>
 <p align="center">
